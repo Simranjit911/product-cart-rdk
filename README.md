@@ -1,1 +1,1 @@
-#Redux Toolkit Project In which multiple states managed simuntaneously 
+#Redux Toolkit Project In which multiple states managed simultaneously
